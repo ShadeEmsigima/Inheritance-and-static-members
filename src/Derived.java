@@ -1,3 +1,3 @@
 
-public class Derived extends Base implements IMyInterface {    
+public class Derived extends Base{    
 }
