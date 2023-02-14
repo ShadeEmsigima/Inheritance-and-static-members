@@ -36,6 +36,7 @@ public class App {
         // static variables can be called in a any way
         // again, calling by reference is not ok
     
+        
 
         System.out.println();
     }
